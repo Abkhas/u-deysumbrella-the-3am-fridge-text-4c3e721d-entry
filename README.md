@@ -29,3 +29,7 @@ The entry is a 3am fridge text: the fridge counts the visits, then turns the jok
 - Against the strongest live rival (iriantotwo1's "One. Grape." line): **0.80** on AxForge (both calls agreeing, margins 3+3) and **0.80** on APINex — mini-panel cleared, decisive aggregate above the 0.65 bar.
 - Against the best-ever benchmark (our best-line winner c11-plants): **0.95** on AxForge.
 - Against the runner-up sibling (F5-cheese): **0.50** tie; F7 stands on the stronger rival score (0.80 vs 0.70).
+
+## Build notes
+
+F7 was chosen by the duel gate, not by taste alone: it beat the strongest live rival 0.80 on both AxForge and APINex and scored 0.95 against our best-line winner c11, clearing the 0.65 bar decisively. This entry is the r1 safety-net submission for blind round 1, filed ahead of the ~12:04 WIB cutoff today so a judged entry is in the field while later rounds keep iterating.
